@@ -1,4 +1,6 @@
-### Hi there 👋
+![A cool wide image to catch the eye. It's fanart of the anime Girl's Last Tour, featuring the main characters driving through a forest in a Kettenkrad](https://img3.gelbooru.com//samples/b4/c6/sample_b4c6c06e9a0097556386c37b714be972.jpg)
+### Welcome to my profile!
+You're probably a fan of my mods. Or you're a fellow computer science student. Either way, I hope you'll find what you're looking for!
 
 <!--
 **Sindarin27/Sindarin27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
